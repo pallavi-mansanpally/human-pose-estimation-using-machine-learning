@@ -11,7 +11,7 @@ To set up the Human Pose Estimation application on your local machine, please fo
 
 1. **Clone the Repository**:
    Open your terminal (Command Prompt, PowerShell, or any terminal emulator) and run the following command to clone the repository:
-git clone https://github.com/yourusername/Human-Pose-Estimation.git
+git clone https://github.com/pallavi-mansanpally/human-pose-estimation-using-machine-learning.git
 cd Human-Pose-Estimation
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**:
